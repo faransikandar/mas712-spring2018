@@ -42,7 +42,7 @@ layout: default
         <h2 class="text-center">Weekly Stuff</h2>
         <div class="list-group">
             <a href="{{ site.baseurl }}/weeks/1-introduction" class="list-group-item front-page-list-item">Feb 8 &mdash; Introduction</a>
-            <a href="{{ site.baseurl }}/weeks/2-projects" class="list-group-item front-page-list-item">Feb 15 &mdash; Projects<img class="front-page-current-indicator" src="{{ site.baseurl }}/assets/img/peg_blue.svg" /></a>
+            <a href="{{ site.baseurl }}/weeks/2-projects" class="list-group-item front-page-list-item">Feb 15 &mdash; Projects</a>
             <a href="{{ site.baseurl }}/weeks/3-passion" class="list-group-item front-page-list-item">Feb 22 &mdash; Passion</a>
             <a href="{{ site.baseurl }}/weeks/4-peers" class="list-group-item front-page-list-item">Mar 1 &mdash; Peers</a>
             <a href="{{ site.baseurl }}/weeks/5-play" class="list-group-item front-page-list-item">Mar 8 &mdash; Play</a>
