@@ -1,7 +1,7 @@
 # MAS.712 - Learning Creative Learning
-## Spring 2018
+## Spring 2019
 
-This is the website used for the spring 2018 version of MAS.712 - Learning Creative Learning.
+This is the website used for the spring 2019 version of MAS.712 - Learning Creative Learning and is based largely on the 2018 version of the course. For 2019, opted not to change the name of the repo. You're welcome to do this in the future. 
 
 If you're a person from the future who wants to use/update this site: (a) greetings from the past! and (b) here are some notes that may or may not be helpful:
 
